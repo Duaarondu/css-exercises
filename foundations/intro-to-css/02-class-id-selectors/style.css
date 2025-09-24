@@ -4,7 +4,7 @@ p{
     font-family: Verdana,Dejavu Sans, sans-serif; ;
     
 }
-.n2{
+#n2{
     color: blue;
     font-size : 36px;
 }
@@ -12,7 +12,7 @@ p{
     font-size :24px;
     font-weight: bold;
 }
-.n4{
+#n4{
     font-size :24px;
     font-weight: bold;
     background-color: green;
